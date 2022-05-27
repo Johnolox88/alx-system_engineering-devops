@@ -1,1 +1,1 @@
-list digit readme
+my directory readme
